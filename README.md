@@ -1,7 +1,4 @@
-# Hello! :wave:
-
-I am in grad school
-
+PhD Student of Materials Science and Engineering at the University of Delaware
 
 
 <!--
