@@ -1,5 +1,8 @@
 PhD Student of Materials Science and Engineering at the University of Delaware
 
+I would love to share what I'm working on, but it's top secret for now
+
+In the meantime here is a cat on a roomba
 
 <!--
 **GrahamSpellman/GrahamSpellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
