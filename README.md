@@ -4,8 +4,7 @@ I would love to share what I'm working on, but it's top secret for now
 
 In the meantime here is a cat on a roomba
 
-![](https://github.com/gramswastaken/assets/roombacat.gif)
-
+![](https://github.com/gramswastaken/gramswastaken/blob/main/assets/roomacat.gif)
 <!--
 **GrahamSpellman/GrahamSpellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
