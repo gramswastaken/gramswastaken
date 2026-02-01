@@ -1,10 +1,19 @@
-PhD Student of Materials Science and Engineering at the University of Delaware
+<div align="center">
+  <a>
 
-I would love to share what I'm working on, but it's top secret for now
+    PhD Student of Materials Science and Engineering at the University of Delaware
+    
+    I would love to share what I'm working on, but it's top secret for now
+    
+    In the meantime here is a cat on a roomba
 
-In the meantime here is a cat on a roomba
+  </a>
+  <a>
+    <img src="https://github.com/gramswastaken/gramswastaken/blob/main/assets/roomacat.gif" width="50%" height="50%"/>
+  </a>
 
-<img src="https://github.com/gramswastaken/gramswastaken/blob/main/assets/roomacat.gif" width="50%" height="50%"/>
+
+</div>
 <!--
 **GrahamSpellman/GrahamSpellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
